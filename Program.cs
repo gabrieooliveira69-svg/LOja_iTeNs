@@ -8,6 +8,12 @@ int preçoPoçao = 15;
 
 int Resultado = preçoPoçao * poçoes;
 
-
-
+if ( moedas >= Resultado)
+{
+    Console.WriteLine("Compra realizada");
+}
+else
+{
+   Console.WriteLine("falta de recursos"); 
+}
 
