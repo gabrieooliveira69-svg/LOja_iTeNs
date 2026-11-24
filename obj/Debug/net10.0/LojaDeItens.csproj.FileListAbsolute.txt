@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\LojaDeItens\bin\Debug\net10.0\LojaDeItens.exe
+C:\Users\aluno\Desktop\LojaDeItens\bin\Debug\net10.0\LojaDeItens.deps.json
+C:\Users\aluno\Desktop\LojaDeItens\bin\Debug\net10.0\LojaDeItens.runtimeconfig.json
+C:\Users\aluno\Desktop\LojaDeItens\bin\Debug\net10.0\LojaDeItens.dll
+C:\Users\aluno\Desktop\LojaDeItens\bin\Debug\net10.0\LojaDeItens.pdb
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\LojaDeItens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\LojaDeItens.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\LojaDeItens.AssemblyInfo.cs
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\LojaDeItens.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\LojaDeItens.dll
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\refint\LojaDeItens.dll
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\LojaDeItens.pdb
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\LojaDeItens.genruntimeconfig.cache
+C:\Users\aluno\Desktop\LojaDeItens\obj\Debug\net10.0\ref\LojaDeItens.dll
